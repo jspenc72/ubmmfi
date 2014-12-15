@@ -3,7 +3,7 @@ The latest version of this documentation and specification may be found here:
 
 > http://ubmmfi.readthedocs.org/en/latest/Specification/
 
-Edit this documentation here:
+Edit project documentation here:
 
 > https://github.com/jspenc72/ubmmfi/
 
