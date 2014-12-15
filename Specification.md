@@ -128,8 +128,110 @@ The following are the core objects and their attributes or essential methods.
   - createdAt
   - updatedAt  
 
+# Suggested Relational Model
+##### Legal Entity
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
 
-First Tab:
+##### Model
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Position
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Job
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Policy
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Procedure
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Step
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Task
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+ 
+##### Product
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Instance
+  - instancetype
+  - instanceid
+  - createdBy
+  - createdAt
+  - updatedAt  
+
+##### Instance Closure Tree 
+  - id
+  - ancestor_id
+  - descendant_id
+  - path_length
+  - createdAt
+  - updatedAt
+
+# Exported CSV File Schema
+Administrators will need to export a csv file for each object in the database, or for a set of objects that are of the same type. They should have to option to export all objects created by a single user. Or any Subtree of the UBM Heirarchy.
+
+# Delivery Method
+The following deliverables are required:
+  - A .zip compressed archive with the appropriate files:
+    - source code for mobile app (Android and iOS, if developed separately)
+    - source code for Administrator Interface
+    - .sql file or migration file which may be used to generate the web-based databases via phpMyAdmin or through some other command line interface.
+    - Instructions with steps for implementation
+    - Github Repository with source code.
+    - readthedocs.org project documentation.
+
+# Planned Features
+Although not inteded as features for this release, potential feature for future releases include:
+  - Enabling Users to log in via Facebook and Google accounts
+  - File attachements (jpg, gif, pdf, docx, xls) to all objects.
+
+# Additional Questions / Deviations From This Specification
+Please submit questions to ubmoffice9@gmail.com with the subject line "UBM MFI SYSTEM RFP"
+
+This specification is intended as a starting point for dicsussion and our attempt as answering some common development questions. Deviations from the spec are acceptable as long as they are approved by us before work takes place and documented as a change order once the project has been awarded.
+
+
+
 ```sh
 $ 
 ```
