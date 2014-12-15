@@ -30,19 +30,106 @@ alternatives.
   - The User will be shown a dashboard with a graph that displays the number of each ubm object that they have created.
   - The User will swipe left to see a menu with each type of ubm object that they may create.
   - When one of the objects in the list is selected the user is presented with an interface that may use a compination of popups and a dynamic list of the selected object type to perform CRUD operations on the application.
-  - 
+
+# Administrator Interaction
+  - The primary administrator interaction will be to review objects that have been created by users and request the user to publish the object to make it available to all users or a specific user.
+  - Initial seeding of template objects will likely be accomlished by copying and pasteing existing objects from online or other sources. (Any method of automating this seeding step would be greatly appreciated.)
+
+##### Basic Workflow
+
+Administrators will need the following functions:
+  - Object Management
+    - Single and Bulk import of template objects.
+    - Single and Bulk creation of template objects.
+    - Single and Bulk view of template objects.
+    - Single and Bulk update of template objects.
+    - Single and Bulk deletion of template objects.
+  - User Management
+    - Ban a User for any reason
+      - Should retain users email and prevent them from logging in.
+  - Method for exporting database to .csv format for excel import and manipulation.
+
+# Online / Offline Interaction
+  - The mobile application should be able to run entirely offline.
+  - The mobile application does not need to include every possible template object for offline access.
+    - The application should cache ~10 most popular objects of each type.
+  - A user’s documents created offline should be synchronized with to the server periodically.
+
+# Data Entities
+The following are the core objects and their attributes or essential methods. 
+
+##### Legal Entity
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - models []
+
+##### Model
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - positions []
+
+##### Position
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - jobs []
+
+##### Job
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - policies []
+
+##### Policy
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - procedures []
+
+##### Procedure
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - steps []
+
+##### Step
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+  - tasks []
+
+##### Task
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+ 
+##### Product
+  - title
+  - description
+  - createdBy
+  - createdAt
+  - updatedAt  
+
 
 First Tab:
 ```sh
-$ node app
-```
-
-Second Tab:
-```sh
-$ gulp watch
-```
-
-(optional) Third:
-```sh
-$ karma start
+$ 
 ```
