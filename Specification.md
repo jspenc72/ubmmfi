@@ -1,7 +1,56 @@
+<!-- MarkdownTOC depth=6 -->
+
+- BM Master File Index System
+  - Documentation and Specification
+  - Source Code Repository and Documentation
+- Purpose of the Application
+- User Inferface Components
+- Language Preferences
+- Server Environment
+- End-User Interaction
+  - Mockups
+  - Basic workflow (Mobile)
+- Administrator Interaction
+  - Basic Workflow
+- Online / Offline Interaction
+- Data Entities
+  - Legal Entity
+  - Model
+  - Position
+  - Job
+  - Policy
+  - Procedure
+  - Step
+  - Task
+  - Product
+- Suggested Relational Model
+  - Legal Entity
+  - Model
+  - Position
+  - Job
+  - Policy
+  - Procedure
+  - Step
+  - Task
+  - Product
+  - Instance
+  - Instance Closure Tree
+- Exported CSV File Schema
+- Delivery Method
+- Planned Features
+- Additional Questions / Deviations From This Specification
+
+<!-- /MarkdownTOC -->
+
 #UBM Master File Index System
+
+## Documentation and Specification
+
 The latest version of this documentation and specification may be found here:
 
 > http://ubmmfi.readthedocs.org/en/latest/Specification/
+
+## Source Code Repository and Documentation
 
 Edit project documentation here (You must be a collaborator, to request access email ubmoffice9@gmail.com) :
 
@@ -23,7 +72,7 @@ maintenance and distribution. To that end, we prefer mobile apps which are devel
 alternative solutions or native languages. Please email us at ubmoffice9@gmail.com to discuss
 alternatives.
 
-#Server Environment
+# Server Environment
 - Webbased components should be able to run on a standard LAMP stack using shared hosting.
 
 # End-User Interaction
