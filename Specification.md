@@ -56,6 +56,9 @@ Edit project documentation here (You must be a collaborator, to request access e
 
 > https://github.com/jspenc72/ubmmfi/
 
+To add open points to this project or specification use this link:
+
+> https://github.com/jspenc72/ubmmfi/issues
 
 # Purpose of the Application
 
