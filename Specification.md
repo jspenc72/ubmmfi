@@ -56,9 +56,16 @@ Edit project documentation here (You must be a collaborator, to request access e
 
 > https://github.com/jspenc72/ubmmfi/
 
-To add open points to this project or specification use this link:
+# Open Points
+
+To add open points to this project or project specification use this link:
 
 > https://github.com/jspenc72/ubmmfi/issues
+
+### NOTES:
+  - Each Open Point should be created by opening an "issue" on github.
+  - It should be understood that in the context of this project "Open Point" === "Open Issue" 
+  - Open Points are closed by closing the issue on Github.
 
 # Purpose of the Application
 
