@@ -69,7 +69,7 @@ To add open points to this project or project specification use this link:
 
 # Purpose of the Application
 
-  - The Application will Store a standard set of objects, their attributes and behaviors of those objects that exist in the UBM Master File Index.
+  - The Application will Store a standard set of objects, their attributes and behaviors of those objects that exist in the UBM Master File Index. Namely, those objects listed in the "Data Entities" section of this document.
 
 # User Inferface Components
 Users will interact with the system through the following components. 
