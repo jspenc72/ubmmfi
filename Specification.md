@@ -74,7 +74,7 @@ To add open points to this project or project specification use this link:
 # User Inferface Components
 Users will interact with the system through the following components. 
   - A mobile app which the user will load on their iPhone or Android device. (see End- User Interaction)
-  - A web interface for uploading the target images.
+  - A web interface optimized for desktop operation of the application.
 
 # Language Preferences
 > One of our goals is to simplify crossplatform
@@ -91,7 +91,7 @@ alternatives.
 
 ##### Mockups
 
->Need to create them on pixt.io or draw them by hand.
+> Need to create them on pixt.io or draw them by hand.
 
 ##### Basic workflow (Mobile)
   - The User will load the page (app)
