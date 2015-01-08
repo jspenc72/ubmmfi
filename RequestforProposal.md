@@ -54,26 +54,45 @@ BMCL will negotiate terms upon selection. All contracts are subject to review by
 ##Format of Proposals
 
 Please use the following as a guideline to format your proposal:
+
 Length and Font Size:
-Please use fonts no smaller than 10 point. Maximum proposal length including title page, cover letter, proposal, qualifications and budget should not exceed 35 pages (not including Hosting Attachment information).
+
+ - Please use fonts no smaller than 10 point. 
+ - Maximum proposal length including title page, cover letter, proposal, qualifications and budget should not exceed 35 pages (not including Hosting Attachment information).
+
 Title Page:
-AGENCY XYZ of Rock Hopper County, Web Site Development Proposal, your company name, address, web site address, telephone number, fax number, e-mail address and primary contact person.
+
+ - Business Model Consulting
+ - Web Site Development Proposal
+ - your company name, address, web site address, telephone number, fax number, 
+ - Primary Contact Person, Name, Email and Phone
+
 Cover Letter:
-Signed by the person or persons authorized to sign on behalf of the company (1-2 pages).
+
+- Signed by the person or persons authorized to sign on behalf of the company (1-2 pages).
+
 Proposal:
-Discuss your proposed solution, including the features, benefits and uniqueness of your solution. You should also touch on your ability to deliver the project in the timeframe noted in Section 5 (3-10 pages).
+
+- Discuss your proposed solution, including the features, benefits and uniqueness of your solution. You should also touch on your ability to deliver the project in the timeframe noted in Section 5 (3-10 pages).
+
 Qualifications:
-Provide the information requested in Section 12 (10-20 pages).
+
+ - Provide the information requested in Section 12 (10-20 pages).
+
 Budget and Fees:
-List budgets as requested above. Identify staff you anticipate working on the project and their hourly rates for work that may be needed for Phase I and Phase II.
+
+ - List budgets as requested above. Identify staff you anticipate working on the project and their hourly rates for work that may be needed for Phase I and Phase II.
+
 Attachments: Hosting options/information:
-o Do you provide hosting? If so, please provide answers to the following questions.
-o How often do you backup?
-o How often do you have down time?
-o How often do you upgrade software/hardware?
-o Please describe your technical support.
-o Please describe your security.
-o Do you have a high-speed, direct connection to the Internet?
-o Please describe your methodology and service level agreements.
-o Pricing, terms and conditions.
+
+- Do you provide hosting? If so, please provide answers to the following questions.
+- How often do you backup?
+- How often do you have down time?
+- How often do you upgrade software/hardware?
+- Please describe your technical support.
+- Please describe your security.
+- Do you have a high-speed, direct connection to the Internet?
+- Please describe your methodology and service level agreements.
+- Pricing, terms and conditions.
+
 If you do not provide hosting, please suggest a vendor/partner to provide this service and provide answers to the above questions
