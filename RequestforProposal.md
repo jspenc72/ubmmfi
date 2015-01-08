@@ -32,22 +32,31 @@ Instructions to developers and companies for preparing and submitting your proje
 BMCL will negotiate terms upon selection. All contracts are subject to review by BMCL legal councel, and a project will be awarded upon signing of an agreement or contract, which outlines terms, scope, budget and other necessary items.
 
 ##Purpose, Description and Objectives
+[insert section]
 
 ##Timeline
+[insert section]
 
 ##Budget 
+[insert section]
 
 ##Background of Business Model Consulting
+[insert section]
 
 ##Audience
+[insert section]
 
 ##Scope and Guidelines
+[insert section]
 
 ##Staff Resources
+[insert section]
 
 ##Qualifications
+[insert section]
 
 ##Evaluation Criteria
+[insert section]
 
 ##Format of Proposals
 
