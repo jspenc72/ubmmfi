@@ -57,15 +57,15 @@ Please use the following as a guideline to format your proposal:
 
 Length and Font Size:
 
- - Please use fonts no smaller than 10 point. 
- - Maximum proposal length including title page, cover letter, proposal, qualifications and budget should not exceed 35 pages (not including Hosting Attachment information).
+- Please use fonts no smaller than 10 point. 
+- Maximum proposal length including title page, cover letter, proposal, qualifications and budget should not exceed 35 pages (not including Hosting Attachment information).
 
 Title Page:
 
- - Business Model Consulting
- - Web Site Development Proposal
- - your company name, address, web site address, telephone number, fax number, 
- - Primary Contact Person, Name, Email and Phone
+- Business Model Consulting
+- Web Site Development Proposal
+- your company name, address, web site address, telephone number, fax number, 
+- Primary Contact Person, Name, Email and Phone
 
 Cover Letter:
 
@@ -77,11 +77,11 @@ Proposal:
 
 Qualifications:
 
- - Provide the information requested in Section 12 (10-20 pages).
+- Provide the information requested in Section 12 (10-20 pages).
 
 Budget and Fees:
 
- - List budgets as requested above. Identify staff you anticipate working on the project and their hourly rates for work that may be needed for Phase I and Phase II.
+- List budgets as requested above. Identify staff you anticipate working on the project and their hourly rates for work that may be needed for Phase I and Phase II.
 
 Attachments: Hosting options/information:
 
